@@ -1,0 +1,9 @@
+Discover Uganda...
+ This is a site built using html, css and php with mysql.
+Discover Uganda is a site developed by Amanda Ann Kirabo, CEO Goodwill Technologies.
+It allows one to create an account to submit different visuals taken from different places from Uganda. For example the equator, the source of the Nile etc
+ This is mainly to promote tourism where tourists and other tourism enthusiasts can access the site to view the different sceneries of Uganda.There are also features to download these photos, share them to your social media sites and may giving thanks to the respective creators. These photos consist of a title, location and memories thereI do believe this will inspire and diversify the tourism industry. Discover Uganda is my contribution to the tourism industry  Discover Uganda...
+ This is a site built using html, css and php with mysql.
+Discover Uganda is a site developed by Amanda Ann Kirabo, CEO Goodwill Technologies.
+It allows one to create an account to submit different visuals taken from different places from Uganda. For example the equator, the source of the Nile etc
+ This is mainly to promote tourism where tourists and other tourism enthusiasts can access the site to view the different sceneries of Uganda.There are also features to download these photos, share them to your social media sites and may giving thanks to the respective creators. These photos consist of a title, location and memories thereI do believe this will inspire and diversify the tourism industry. Discover Uganda is my contribution to the tourism industry
